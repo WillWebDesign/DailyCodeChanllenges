@@ -6,4 +6,4 @@ I will prepare to solve daily a retro code proposed by [www.dailycodingproblem.c
 > Day(Folder):
 >> readme.md -> description problem
 
->> <\name\>.js -> code sniped with the solution
+>> \<name\>.js -> code sniped with the solution
