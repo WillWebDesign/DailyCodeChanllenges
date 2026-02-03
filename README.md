@@ -44,12 +44,10 @@ Cada reto se resuelve en dos lenguajes con modelos de ejecución distintos:
 │   ├── README.md          # Descripción del reto
 │   ├── python/
 │   │   ├── main.py
-│   │   ├── requirements.txt
-│   │   └── README.md      # Notas de diseño
+│   │   └── requirements.txt
 │   └── js/
 │       ├── index.js
-│       ├── package.json
-│       └── README.md      # Notas de diseño
+│       └── package.json
 ├── day-002/
 ├── ...
 └── generate_day.py        # Script generador de retos
