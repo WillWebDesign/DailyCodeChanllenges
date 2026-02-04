@@ -41,7 +41,7 @@ def create_structure():
     with open(f"{day_path}/js/package.json", "w") as f:
         f.write(
             """{
-  "name": "daily-challenge }",
+  "name": "daily-challenge",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
